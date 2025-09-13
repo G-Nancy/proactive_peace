@@ -1,0 +1,1 @@
+find WESAD -name "*.zip" -exec unzip {} -d {} \;
